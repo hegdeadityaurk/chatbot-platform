@@ -15,4 +15,7 @@ app.include_router(auth_router)
 app.include_router(project_router)
 app.include_router(chat_router)
 app.include_router(prompt_router)
+@app.get("/")
+def root():
+    return {"status": "Chatbot Platform API is running"}
 
