@@ -5,7 +5,7 @@ Supports custom system prompts, project-based conversations, and AI responses vi
 
 Live Demo:
 👉 https://chatbot-platform-0l28.onrender.com
-    https://chatbot-platform-0l28.onrender.com/docs
+👉  https://chatbot-platform-0l28.onrender.com/docs
 
 🚀 Features
 
